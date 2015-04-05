@@ -1,3 +1,4 @@
+## Leetcode Algrithm ZigZag problem
 class Solution:
 	def convert(self,s,nRows):
 		lines = ['']*nRows
