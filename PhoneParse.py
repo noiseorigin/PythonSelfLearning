@@ -1,3 +1,5 @@
+##ugly code solving parse phone number question in microsoft code compete
+
 import re
 text = ''.join(open('PracticeInput.txt').readlines())
 
