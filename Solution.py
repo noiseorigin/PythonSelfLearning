@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 class Solution:
 	def convert(self,s,nRows):
 		lines = ['']*nRows
