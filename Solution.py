@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/usr/bin/env python
+=======
+## Leetcode Algrithm ZigZag problem
+>>>>>>> ba73ea58342c1b028a601c0a8090bb47fa8260f3
 class Solution:
 	def convert(self,s,nRows):
 		lines = ['']*nRows
